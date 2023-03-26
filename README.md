@@ -52,7 +52,7 @@
 <br/>
 
 <br/>
-<p align="left" >
+<p align="center" >
 
  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp"> 
  <img  height="100" width="280" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinbhaskarpatil&">
