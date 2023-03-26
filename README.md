@@ -46,10 +46,10 @@
 <br/>
 <p align="center" >
 
- <img height="200" width="200" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp"> 
+ <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp"> 
  <img  height="250" width="250" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinbhaskarpatil&">
  
-<img height="200" width="200" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
+<img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
 
 
 
