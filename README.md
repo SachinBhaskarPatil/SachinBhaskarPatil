@@ -60,15 +60,74 @@
 </p>
 
 
-<br/>
-
-
 <p align="center">
 <p><img align="left" height="400" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinbhaskarpatil&show_icons=true&locale=en&layout=compact" alt="sachinbhaskarpatil" /></p>
 
 <p>&nbsp;<img align="right" height="400" width="400" src="https://github-readme-stats.vercel.app/api?username=sachinbhaskarpatil&show_icons=true&locale=en" alt="sachinbhaskarpatil" /></p>
 
 </p>
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+<h4 align="center">
+
+  
+
+```diff
+
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+
+@@       o o                                           @@
+
+@@       | |                                           @@
+
+@@      _L_L_                                          @@
+
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+
+@@   ❮/ \`-'/ \❯                                       @@
+
+@@     _/`U'\_                                         @@
+
+@@    ( .   . )     .----------------------------.     @@
+
+@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+
+@@   \ |  ,  | /    '----------------------------'     @@
+
+@@    \|=====|/                                        @@
+
+@@     |_.^._|                                         @@
+
+@@     | |"| |                                         @@
+
+@@     ( ) ( )   Testing leads to failure              @@
+
+@@     |_| |_|   and failure leads to understanding    @@
+
+@@ _.-' _j L_ '-._                                     @@
+
+@@(___.'     '.___)                                    @@
+
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+
+```
+
+
+
+</h4>  
+
+  
+
+
+
+
 
 
 
