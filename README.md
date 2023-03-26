@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinbhaskarpatil&label=Profile%20views&color=0e75b6&style=flat" alt="sachinbhaskarpatil" /> </p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img
+      src="https://readme-typing-svg.herokuapp.com?lines=Hello,folks!!👋;Nice+to+meet+you!;I'm+Sachin+Patil....;Passionate+Developer👨‍💻;Data+Science+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=30"></a>
+</p>
+
 <p align="left"> <a href="https://twitter.com/sachin652002" target="blank"><img src="https://img.shields.io/twitter/follow/sachin652002?logo=twitter&style=for-the-badge" alt="sachin652002" /></a> </p>
 <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
 - 🔭 I’m currently working on **𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
@@ -50,6 +55,16 @@
 
 
 
+
+</p>
+<br/>
+
+<br/>
+
+<p align="center">
+<p><img align="left" height="500" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinbhaskarpatil&show_icons=true&locale=en&layout=compact" alt="sachinbhaskarpatil" /></p>
+
+<p>&nbsp;<img align="right" height="500" width="500" src="https://github-readme-stats.vercel.app/api?username=sachinbhaskarpatil&show_icons=true&locale=en" alt="sachinbhaskarpatil" /></p>
 
 </p>
 
