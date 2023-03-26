@@ -64,9 +64,9 @@
 <br/>
 
 <p align="center">
-<p><img align="left" height="500" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinbhaskarpatil&show_icons=true&locale=en&layout=compact" alt="sachinbhaskarpatil" /></p>
+<p><img align="left" height="400" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinbhaskarpatil&show_icons=true&locale=en&layout=compact" alt="sachinbhaskarpatil" /></p>
 
-<p>&nbsp;<img align="right" height="500" width="500" src="https://github-readme-stats.vercel.app/api?username=sachinbhaskarpatil&show_icons=true&locale=en" alt="sachinbhaskarpatil" /></p>
+<p>&nbsp;<img align="right" height="400" width="400" src="https://github-readme-stats.vercel.app/api?username=sachinbhaskarpatil&show_icons=true&locale=en" alt="sachinbhaskarpatil" /></p>
 
 </p>
 
