@@ -44,12 +44,14 @@
 <br/>
 
 <br/>
+
+<br/>
 <p align="left" >
 
- <img height="250" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp"> 
+ <img height="250" width="180" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp"> 
  <img  height="250" width="280" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinbhaskarpatil&">
  
-<img height="250" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
+<img height="250" width="180" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
 
 
 
